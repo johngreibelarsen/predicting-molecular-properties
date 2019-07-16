@@ -5,6 +5,7 @@ __pycache__/
 
 # don't upload data
 input/
+results/
 catboost_info/
 *.csv
 
