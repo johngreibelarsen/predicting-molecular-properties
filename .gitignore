@@ -8,6 +8,7 @@ input/
 results/
 catboost_info/
 *.csv
+*.feather
 
 # C extensions
 *.so
