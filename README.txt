@@ -21,3 +21,27 @@ test data!!
 
 Next version will leave all 'noisy data' in the data set
 *****************************************************************************************************************************************
+-
+-
+*****************************************************************************************************************************************
+basic_feature_engineering_v3: Builds on basic_notebook2 and considers data from all the data sources: 
+- train 
+- test
+- structures
+- dipole_moments
+- magnetic_shielding_tensors
+- mulliken_charges
+- potential_energy
+- scalar_coupling_contributions
+
+This book builds on previous notebooks regarding feature enginnering and feature selection however in this book we will train a model per coupling type.
+
+
+*****************************************************************************************************************************************
+
+basic_feature_engineering_v4: Builds on basic_notebook2 + basic_notebook3 and also only considers data from the following csv files: 
+- train 
+- test
+- structures 
+
+This book builds on previous notebooks regarding feature enginnering and feature selection however in this book we will train a model per coupling type.
